@@ -1,4 +1,4 @@
-#🧠 Machine Learning Course Materials – Krisha Sir (Udemy)
+# 🧠 Machine Learning Course Materials – Krisha Sir (Udemy)
 Welcome to this repository which serves as a personal learning archive for the Machine Learning course by Krisha Sir on Udemy.
 
 This repo contains:
